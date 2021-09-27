@@ -1,2 +1,7 @@
-![alt text](https://postimg.cc/RNQ6HGkk)
-![alt text](https://postimg.cc/3k8yCm7d)
+
+<div align="center">
+    <img src="./assets/print1.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="./assets/print2.png" width="400px"</img> 
+</div>
